@@ -1,0 +1,1 @@
+narysearch(int arr[],int n,int key)
